@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71770007155",
+    "project_id": "loyaltri-be403",
+    "storage_bucket": "loyaltri-be403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71770007155:android:febc8051416df432982c06",
+        "android_client_info": {
+          "package_name": "com.loyaltri.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWD9XcS6GxlFYfKCPAkp-byX72Zs_WBcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

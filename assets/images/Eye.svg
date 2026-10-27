@@ -1,0 +1,11 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Eye" opacity="0.2" clip-path="url(#clip0_663_6930)">
+<path id="Vector" d="M10.4717 4.375C4.22168 4.375 1.72168 10 1.72168 10C1.72168 10 4.22168 15.625 10.4717 15.625C16.7217 15.625 19.2217 10 19.2217 10C19.2217 10 16.7217 4.375 10.4717 4.375Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M10.4717 13.125C12.1976 13.125 13.5967 11.7259 13.5967 10C13.5967 8.27411 12.1976 6.875 10.4717 6.875C8.74579 6.875 7.34668 8.27411 7.34668 10C7.34668 11.7259 8.74579 13.125 10.4717 13.125Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_663_6930">
+<rect width="20" height="20" fill="white" transform="translate(0.47168)"/>
+</clipPath>
+</defs>
+</svg>
